@@ -1,0 +1,110 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Opt Out Project",
+    "description": "",
+    "home_page_url": "https://cyberlyra.github.io/cyberlyra",
+    "feed_url": "https://cyberlyra.github.io/cyberlyra/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Janet Vertesi"
+    },
+    "items": [
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/who-am-i/",
+            "url": "https://cyberlyra.github.io/cyberlyra/who-am-i/",
+            "title": "Who am I?",
+            "summary": "I left Google in March of 2012, Facebook in early 2016. In 2014 I went viral for keeping a pregnancy&hellip;",
+            "content_html": "<figure class=\"post__image post__image--right\"><img loading=\"lazy\"  src=\"https://janet.vertesi.com/img/main_photo.jpg\" data-is-external-image=\"true\"  alt=\"Janet Vertesi, circa 2021\" width=\"252\" height=\"253\"></figure>I left Google in March of 2012, Facebook in early 2016. In 2014 I went viral for keeping a pregnancy away from detection online. I still buy everything related to my children untraceably.  In my spare time I hack cell phones.</p>\n<p>For a long time, people thought I was crazy. Now they ask how I did it.</p>\n<p>I started this site so that you can do it too.</p>\n<p>I'm an expert in the relationship between technology and society. I'm a professor at Princeton University in the Sociology department, where I'm affiliated with Computer Science, the Center for Digital Humanities, and the Center for Information Technology Policy. I have a PhD in the study of science, technology, and society, which is actually a field. I research NASA's robotic spacecraft teams, studying how they work together and sometimes assisting them in organizing their teams for success.  I also publish in Human-Computer Interaction, alongside computer scientists. And it's this very expertise that drove me to what I now call the Opt Out Experiments.</p>\n<p>I've always been into technology. My dad brought our first computer home when I was eight, and I was hooked.  I had a reputation for being a computer geek and an early adopter. I even study robots in space!</p>\n<p>But things changed once tech companies discovered they could mine user data for advertisting. Despite study after study showing the perilous road that Silicon Valley was on, companies refused to change their path, and people kept logging in.</p>\n<p>Algorithmic recommenders. Filter bubbles. Predictive policing. Biased datasets. Manipulation. Persuasive design. And all of it fueling and fueled by a rampant collection of personal data.</p>\n<p>Anyone with my training could see the technological dystopia we're currently enduring, coming from a mile away.  But Silicon Valley trampled all over those hard-won lessons from the history and sociology of technology. Maybe they thought we were just naysayers. Meanwhile, all around me, people are still blissfully clicking and scrolling, and the fabric of our society is fraying under the strain.</p>\n<p>Amid all the heady rhetoric from Sillly Valley, it's easy to forget that technologies aren't some meteorite from outer space that hit \"society,\" transforming it from out of nowhere (trust me, I study NASA, it's not that easy). Technologies are tools we build, along the lines of our choosing. The everyday devices in our pockets and on our desktops that are torquing our social world are just one vision among endless alternative possibilities. It could always be otherwise.</p>\n<p>It still can. <span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">T</span>here are lots of ways to make digital devices, systems, and services <em>work</em>. Possibilities imbued with data stewardship and personal privacy. Tools that bring us a better, more harmonious, social world.  We can<span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> choose--and build--differently.</span></p>\n<p><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">That's why I started opting out. </span></p>\n<p>I have spent the last decade ditching toxic technologies, avoiding Big Tech's venomous tendrils like the plague. I did it all without living in a cave, throwing my devices away, or becoming a Luddite. I'm online, and my life is suffused with technologies. But I choose thoughtfully, ethically and responsibly. I'm not interested in if the latest blingy device comes in rose gold. Instead, I embrace companies and communities who help me to keep my data private, and to steer clear of those who don't. Sometimes I build things myself so that I know exactly where my data is.</p>\n<figure ><figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://cyberlyra.github.io/cyberlyra/media/posts/13/IMG_5374.JPG\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://cyberlyra.github.io/cyberlyra/media/posts/13/responsive/IMG_5374-xs.JPG 300w ,https://cyberlyra.github.io/cyberlyra/media/posts/13/responsive/IMG_5374-sm.JPG 480w ,https://cyberlyra.github.io/cyberlyra/media/posts/13/responsive/IMG_5374-md.JPG 768w\"  alt=\"I have a lot of alternative, old, or hackable phones. Here are a few of them.\" width=\"400\" height=\"300\"></figure>\n<figcaption >Caption</figcaption>\n</figure>\n<p>Since more and more people seem to want to know what I do and how to follow along, I started this site. I'll review some of my favorite tools and alternative options for you to consider. I'll share tips for how I manage my data in the face of an Internet hellbent on its lucrative extraction. I'll occasionally muse about what I've learned about Internet privacy while opting out. You can follow along online, and sign up for my mailing list to learn about fresh posts and ideas.</p>\n<p>The opinions expressed here are entirely my own. I'm not paid for reviews of products, I'm just telling you what works for me. I'm not a journalist; I'm an academic, but I'll make every effort to make this readable. Also, since I'm all about data privacy and ownership, nothing on this website is stealing your data. You can browse, read, and subscribe in peace.</p>\n<p>I welcome you, fellow and aspiring conscientious objectors!</p>\n<p>It's time for change. Techlash is rampant, people are angry at the FAANGs and tired of the Metaverse, Crypto, and the \"next big thing.\" Fortunately, the power is in our hands. We can, truly can, leave these systems behind in the dirt. We can put our eggs in a better basket than this.</p>\n<p>Let's get started.</p>\n<p> </p>",
+            "image": "https://cyberlyra.github.io/cyberlyra/media/posts/13/tweet.png",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Philosophy",
+                   "Basics"
+            ],
+            "date_published": "2022-09-28T13:48:42-04:00",
+            "date_modified": "2022-09-28T21:57:07-04:00"
+        },
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/how-to-the-tech-break-up/",
+            "url": "https://cyberlyra.github.io/cyberlyra/how-to-the-tech-break-up/",
+            "title": "How To: The Tech Break-Up",
+            "summary": "How to leave products behind.",
+            "content_html": "<p>How to leave products behind.</p>",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Techniques",
+                   "Basics"
+            ],
+            "date_published": "2022-09-28T13:41:05-04:00",
+            "date_modified": "2022-09-28T13:42:36-04:00"
+        },
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/divide-your-data-and-conquer-big-tech/",
+            "url": "https://cyberlyra.github.io/cyberlyra/divide-your-data-and-conquer-big-tech/",
+            "title": "Divide (your data) and Conquer (Big Tech)",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Techniques"
+            ],
+            "date_published": "2022-09-28T13:39:28-04:00",
+            "date_modified": "2022-09-28T13:40:32-04:00"
+        },
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/sailfish-the-iphone-and-android-alternative/",
+            "url": "https://cyberlyra.github.io/cyberlyra/sailfish-the-iphone-and-android-alternative/",
+            "title": "Sailfish: the iPhone and Android Alternative",
+            "image": "https://cyberlyra.github.io/cyberlyra/media/posts/5/Sailfishing21.jpg",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews",
+                   "Phones"
+            ],
+            "date_published": "2022-09-28T13:11:49-04:00",
+            "date_modified": "2022-09-28T13:41:21-04:00"
+        },
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/the-best-non-google-search-engine/",
+            "url": "https://cyberlyra.github.io/cyberlyra/the-best-non-google-search-engine/",
+            "title": "Google-Free Living (it&#x27;s better here)",
+            "summary": "People often ask me what I use instead of Google. The answer is: a lot of different systems. That's not&hellip;",
+            "content_html": "<p>People often ask me what I use instead of Google. The answer is: a lot of different systems. That's not because Google is difficult to replace, per se. It's because I'm not about to give all my data to one system, whether that's Google or Yahoo!, Apple or Microsoft. I want my online data to be fractured, so that each company can only see one shard of my reflection in a broken mirror. I write more about this technique in my post on \"data Balkanization,\" but in general, leaving Google means I'm not about to jump into bed with the next platform giant that comes along.</p>\n<p>Also, before you get started leaving Google, be sure to read my post about the Tech Breakup. You can't just, edge your way out of the relationship with Google. Its tendrils are long. You have to be <em>prepared, </em>or leaving cold turkey is gonna leave you in the lurch, instead of Google. (Hint: they won't miss you. Better yet, you won't miss them.)</p>\n<p>Key functionalities to replace on a daily basis? Search, email, browser, and maps, videos, calendars and file sharing. If you're a Chrome or Android person, then you're looking for a new operating system too: more on that in other posts. Each of these devices and services I've replaced with a different one--sometimes more than one service, if I want to keep my data safely segmented. I've spent a lot of time trying out many, many different systems. And I don't tend to keep my eggs in one basket.</p>\n<p>In the coming months I'll do a more in-depth review of the services I know and love, things I've tried and tested.  I'll update this page with links when those posts go live. For now, though, here are the top contenders that I keep reaching for, time and again. </p>\n<p>Before we get started, if you haven't yet deleted your GoogleID, then at least sign out of all Google services and clear your browser's cache.  Otherwise Google will follow you as you try out these alternatives. Which is missing the point.</p>\n<h3>Search</h3>\n<p>I've used lots of search engines, but I keep coming back to <a href=\"http://www.DuckDuckGo.com\">www.DuckDuckGo.com.</a> Make it your homepage. They don't monetize based on aggregate search data, which is a fancy way of saying that they don't mine you for information, don't use your extracted data to profit on selling ads to your eyeballs, and don't put you in a filter bubble either. Plus DuckDuckGo has these cool search terms called \"bangs,\" which is tech-speak for the exclamation mark. Search something with a \"!m\" and it'll search a map, with !v and it searches videos, !a pings Amazon. If you end up with a Google map or video on YouTube, it's through a proxy so Google can't track you. I've heard some people say they have trouble finding what they want on DuckDuckGo, but I've never had that problem. Maybe they're just so wrapped up in their filter bubble it looks like they can't find <em>what they want to see, </em>which is a different problem altogether and something I'm keen to avoid. Still, it I'm super curious about what people might be seeing on a Google search, I might run a search at <a href=\"http://www.startpage.com\">www.startpage.com</a> which pings Google though a protective layer.</p>\n<h3>Email</h3>\n<p>The trick is to actually have lots of email addresses, but more on that later. I go with services that don't track or mine inboxes, like Protonmail.ch, Zoho.com, or self-hosted email (we do ours through <a href=\"http://www.ionos.com\">www.ionos.com</a> webhosting). The cool thing about running your own email server is you can make unlimited addresses at will, so every company that wants your email address can have their own unique version.  That limits their ability to aggregate your personal data. You can also get a taste of this with new browser plugins from DuckDuckGo and Mozilla that make spoof email addresses for you to give away for discounts at the till, without risk of data </p>\n<h3>Browser</h3>\n<p>Chrome is a nightmare. You can build your own version using the Chromium kernel, or if the sentence I just wrote looks like gibberish to you then download Firefox already. When it comes to privacy and blockers, Mozilla has your back. Plus basically all your plugins on Chrome are available on Firefox too. Get off Chrome. It's a Google backdoor.</p>\n<h3><strong><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;\">Maps</span></strong></h3>\n<p>Years ago, when Apple Maps first came out and all the buildings in 3D view were rendering to look like the Leaning Tower of Pisa, I wrote a love letter to Apple Maps that got a lot of ridicule. I was just happy to see an alternative out there! I still use Apple Maps but also spread traces across Bing's mapping service, Pure Maps, Here.com, Open Street Maps, and Organic Maps.</p>\n<h3>Videos</h3>\n<p>I remember when YouTube was this weird video dating site that people didn't think would amount to much. Then it was acquired by Google. Now it's simply the biggest video sharing site in the world, and it's hard to avoid. When possible I get videos from places like Vimeo, but much of the time I just have to figure out how to get what I want from YouTube without them logging that I'm watching it. Searching for videos through DuckDuckGo using the !v function lets you play YouTube videos through their proxy, and you can always load up a VPN to browse from a fresh IP, load things in a private browsing window, and clear your cache often. Not being logged into Google or having any stable Google account goes a long way toward keeping them in the dark. If you're comfortable with the command line you can try <em>youtube-dl</em>, which will scrape and save a local copy of a YouTube video on your own computer. I mention it for completeness as this is not legal. But hey, it used to just be normal to watch things without being tracked by anyone. So for your next assignment, spend a little time wondering how we ended up in a situation where trying not to be tracked to allow people to make money off our eyeballs, is illegal. </p>\n<h3>Calendars and other office stuff</h3>\n<p>Most of the email services you will soon be signing up for to avoid Gmail will also come with a calendar. Apple has calendars too. Or you can try running your own. I love sandstorm.io which lets you run your own mini-server, keeping your data separated even from other systems you spin up on the same server.</p>\n<p>I'll cover alternatives to Google Meet, gChat, and others in separate posts. And I will devote a lot of time to alternative phones, operating systems, and other home automation machines. Remember, this doesn't have to be an extreme form of digital veganism. You're just extracting your life from a platform giant, trying to spread your traces about, and share the love with systems that treat you and your data better.</p>\n<p> </p>",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Search",
+                   "Reviews",
+                   "Basics",
+                   "Apps"
+            ],
+            "date_published": "2022-09-28T13:10:40-04:00",
+            "date_modified": "2022-09-29T19:01:03-04:00"
+        },
+        {
+            "id": "https://cyberlyra.github.io/cyberlyra/this-is-a-first-post-title/",
+            "url": "https://cyberlyra.github.io/cyberlyra/this-is-a-first-post-title/",
+            "title": "Welcome to the Opt Out Project",
+            "summary": "If data is the new oil, I'm here to help you go electric. You can live a modern, digitally connected,&hellip;",
+            "content_html": "\n  <p>\n    If data is the new oil, I'm here to help you go electric.\n  </p>\n\n  <p>\n    You can live a modern, digitally connected, twenty-first century life online without Big Tech. You don't have to trade your personal data for \"free\" services. You don't have to use what other people are using. It's not (always) hard, and you don't have to live in a cave.\n  </p>\n\n  <p>\n    Since 2012 I have endeavored to enjoy a technologically-connected life without subjecting myself or my family to the evils of the personal data economy. The last ten years have seen me doing things that most people honestly thought were crazy. Now, they're asking how I do it.\n  </p>\n\n  <p>\n    That's why I started this site. I'm placing information about these tools and alternatives in one spot for others to use. They're often reviewed in the tech press, and there's information out there if you know where to look. But my goal is to bring it all together in one place, to help you opt out as well.\n  </p>\n\n  <p>\n    This site is NOT going to help you with a tech detox. I'm not here to hate on technology, or tell you to go live in a cave somewhere. After all, I love technology. I'm a sociologist of technology with a PhD in the study of technology and society. I publish research in human-computer interaction. I work with NASA spacecraft teams. I am an expert in the study of technology and how it intersects with society. In addition to being a professor at Princeton, I spend my spare time hacking phones and building voice assistants using Raspberry Pi's. Of all people, I don't think the answer is to leave technology behind altogether.&nbsp;\n  </p>\n\n  <p>\n    That said, I think we need to leave <i>these </i>technologies. Google. Meta. Other algorithmic systems that blend search or friendship with advertising, serve information up with a heaping dose of surveillance, and lead us all astray.&nbsp;Companies that went from \"Don't be evil\" to, well, being evil. Companies that ignored the warning signs and marched us boldly into a world suffused with dysfunction.\n  </p>\n\n  <p>\n    I'm sharing this knowledge because it's time for a better future. It's time to put us all in the drivers' seat, to demand different tools, and to start living a better life online.\n  </p>\n\n  <p>\n    It's time to opt out.\n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://cyberlyra.github.io/cyberlyra/media/posts/1/No_Phone.png",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Techniques",
+                   "Philosophy",
+                   "Basics"
+            ],
+            "date_published": "2022-09-13T14:41:41-04:00",
+            "date_modified": "2022-09-29T21:31:55-04:00"
+        }
+    ]
+}

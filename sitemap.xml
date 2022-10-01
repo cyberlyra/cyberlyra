@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cyberlyra.github.io/cyberlyra/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/</loc>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/divide-your-data-and-conquer-big-tech/</loc>
+<lastmod>2022-09-28T13:40:32-04:00</lastmod>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/how-to-the-tech-break-up/</loc>
+<lastmod>2022-09-28T13:42:36-04:00</lastmod>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/sailfish-the-iphone-and-android-alternative/</loc>
+<lastmod>2022-09-28T13:41:21-04:00</lastmod>
+<image:image>
+<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/5/Sailfishing21.jpg</image:loc>
+<image:title><![CDATA[Five generations of Sailfish Phones I have loved.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/the-best-non-google-search-engine/</loc>
+<lastmod>2022-09-29T19:01:03-04:00</lastmod>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/this-is-a-first-post-title/</loc>
+<lastmod>2022-09-29T21:31:55-04:00</lastmod>
+<image:image>
+<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/1/No_Phone.png</image:loc>
+<image:title><![CDATA[Do we need to live in a cave?]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cyberlyra.github.io/cyberlyra/who-am-i/</loc>
+<lastmod>2022-09-28T21:57:07-04:00</lastmod>
+<image:image>
+<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/13/tweet.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/13/IMG_5374.JPG</image:loc>
+<image:title><![CDATA[I have a lot of alternative, old, or hackable phones. Here are a few of them.]]></image:title>
+</image:image>
+</url>
+</urlset>

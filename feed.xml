@@ -3,7 +3,7 @@
     <title>The Opt Out Project</title>
     <link href="https://cyberlyra.github.io/cyberlyra/feed.xml" rel="self" />
     <link href="https://cyberlyra.github.io/cyberlyra" />
-    <updated>2022-10-03T19:30:02-04:00</updated>
+    <updated>2022-10-04T12:42:38-04:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
@@ -92,7 +92,7 @@
             <category term="Philosophy"/>
             <category term="Basics"/>
 
-        <updated>2022-10-03T18:50:25-04:00</updated>
+        <updated>2022-10-04T12:20:21-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://cyberlyra.github.io/cyberlyra/media/posts/13/tweet.png" alt="" />
@@ -102,11 +102,11 @@
         <content type="html">
             <![CDATA[
                     <img src="https://cyberlyra.github.io/cyberlyra/media/posts/13/tweet.png" alt="" />
-                <figure class="post__image post__image--right"><img loading="lazy"  src="https://janet.vertesi.com/img/main_photo.jpg" data-is-external-image="true"  alt="Janet Vertesi, circa 2021" width="252" height="253"></figure>I left Google in March of 2012, Facebook in early 2016. In 2014 I went viral for keeping a pregnancy away from detection online. I still buy everything related to my children untraceably.  In my spare time I hack cell phones.</p>
+                <p>I left Google in March of 2012, Facebook in early 2016. In 2014 I went viral for keeping a pregnancy away from detection online. I still buy everything related to my children untraceably.  In my spare time I hack cell phones.</p>
 <p>Why do all this?</p>
 <p>I'm an expert in the relationship between technology and society. I'm a professor at Princeton University in the Sociology department, where I'm affiliated with Computer Science, the Center for Digital Humanities, and the Center for Information Technology Policy. I have a PhD in the study of science, technology, and society, which is actually a field. I research NASA's robotic spacecraft teams, studying how they work together and sometimes assisting them in organizing their teams for success.  I also publish in Human-Computer Interaction, alongside computer scientists.</p>
-<p>It's this very expertise that drove me to what I now call the Opt Out Experiments.</p>
-<p>I've always been into technology. My dad brought our first computer home when I was eight, and I was hooked.  I had a reputation for being a computer geek and an early adopter. I even study robots in space!</p>
+<p>It's this expertise that drove me to what I now call the Opt Out Experiments.</p>
+<p>I've always been into computers. My dad brought our first one home in 1984, and I was hooked.  I had a reputation for being a computer geek and an early adopter. I even study robots in space!</p>
 <p>But things changed once tech companies discovered they could mine user data for advertisting. Despite study after study showing the perilous road that Silicon Valley was on, companies refused to change their path, and people kept logging in. </p>
 <p>Algorithmic recommenders. Filter bubbles. Predictive policing. Biased datasets. Manipulation. Persuasive design. All of it fueling and fueled by a rampant collection of personal data.</p>
 <p>I was there as this was being developed and rolled out, and I saw the writing on the wall. Anyone with my training could see the technological dystopia we're currently enduring, coming from a mile away.</p>
@@ -227,84 +227,51 @@
             <category term="Philosophy"/>
             <category term="Basics"/>
 
-        <updated>2022-10-03T18:50:57-04:00</updated>
+        <updated>2022-10-04T12:42:38-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cyberlyra.github.io/cyberlyra/media/posts/1/No_Phone.png" alt="Do we need to live in a cave?" />
-                    If data is the new oil, I'm here to help you go electric. You can live a modern, digitally connected,&hellip;
+                    A provocative tip jar in NYC, circa 2014. Welcome, fellow and aspiring conscientious objectors! Yes, you can live a modern,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://cyberlyra.github.io/cyberlyra/media/posts/1/No_Phone.png" alt="Do we need to live in a cave?" />
                 
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://cyberlyra.github.io/cyberlyra/media/posts/1/Kahve_header.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://cyberlyra.github.io/cyberlyra/media/posts/1/responsive/Kahve_header-xs.png 300w ,https://cyberlyra.github.io/cyberlyra/media/posts/1/responsive/Kahve_header-sm.png 480w ,https://cyberlyra.github.io/cyberlyra/media/posts/1/responsive/Kahve_header-md.png 768w"  height="877" width="1400" alt="" />
+      <figcaption>A provocative tip jar in NYC, circa 2014.</figcaption>
+    </figure>
+
+    <h3 id="welcome-fellow-and-aspiring-conscientious-objectors">
+      Welcome, fellow and aspiring conscientious objectors!
+    </h3>
+
   <p>
-    If data is the new oil, I'm here to help you go electric.
+    Yes, you can live a modern, digitally connected, twenty-first century life online without Big Tech. You don't have to trade your personal data for "free" services. It's not (always) technically difficult, and you don't have to live in a cave. I've done it, and you can too!
   </p>
 
   <p>
-    You can live a modern, digitally connected, twenty-first century life online without Big Tech. You don't have to trade your personal data for "free" services to do so. You don't have to use what other people are using. It's not (always) difficult, and you don't have to live in a cave.
+    I started this site to share the treasure trove of knowledge I've gleaned from over a decade of opting out of data-sucking services.
   </p>
 
   <p>
-    I started opting out in 2012 when I stopped using Google tools and deleted my account. Since then I have built up a treasure trove of knowledge, devices, and services aimed at keeping me and my family away from the evils of data-collecting algorithmic systems.
+    You can start here with <a href="https://cyberlyra.github.io/cyberlyra/tags/basics/">the Basics</a>, learn more about the Opt Out project, delve into <a href="https://cyberlyra.github.io/cyberlyra/tags/the-basics/">the Techniques</a> I've developed to enable my lifestyle, or explore <a href="https://cyberlyra.github.io/cyberlyra/tags/the-tools/">the Philosophy</a>, the academically-informed thinking behind my unique approach.
   </p>
 
   <p>
-    Honestly, the last ten years have seen me doing things that most people honestly thought were crazy. Now, they're asking how I do it.
+    Or just jump into my reviews of alternative tools and systems: from <a href="https://cyberlyra.github.io/cyberlyra/tags/email/">email</a>&nbsp;and <a href="https://cyberlyra.github.io/cyberlyra/tags/phones/">search</a> to <a href="https://cyberlyra.github.io/cyberlyra/tags/phones/">cell phones</a>&nbsp;and the devices that power <a href="https://cyberlyra.github.io/cyberlyra/tags/homesteading/">my connected home</a>.&nbsp;
   </p>
 
   <p>
-    That's why I started this site. I've decided to put information about these tools and alternatives in one spot for others to find and use. Sure, some of these tools are reviewed in the tech press, and there is information out there if you know where to look. My goal is to bring it all together in one place, to guide you through the process, and help you opt out as well.
+    Or maybe you want to know who I am--I don't blame you!--more about that is <a href="https://cyberlyra.github.io/cyberlyra/who-am-i/">here</a> or on my professional website&nbsp;<a href="https://janet.vertesi.com" target="_blank">here</a>.
   </p>
 
   <p>
-    I'm fed up with living in a dystopian version of the future. We should all be able to live our lives without these data-sucking and socially destructive tools torquing our world.&nbsp;
+    It's time to reject toxic tech and usher in a better future. Let's get back in the drivers' seat, demand different tools, and start living a better life online.
   </p>
 
-  <p>
-    I welcome you, fellow and aspiring conscientious objectors!
-  </p>
-
-  <p>
-    You can start here with <a href="https://cyberlyra.github.io/cyberlyra/tags/basics/">the Basics</a>, delve into <a href="https://cyberlyra.github.io/cyberlyra/tags/the-basics/">the Techniques</a> I've developed to enable my lifestyle, or explore <a href="https://cyberlyra.github.io/cyberlyra/tags/the-tools/">the Philosophy</a>, the academically-informed thinking behind my unique approach. Or just jump into my reviews of alternative tools and systems: from <a href="https://cyberlyra.github.io/cyberlyra/tags/email/">email</a>&nbsp;and <a href="https://cyberlyra.github.io/cyberlyra/tags/phones/">search</a> to <a href="https://cyberlyra.github.io/cyberlyra/tags/phones/">cell phones</a>&nbsp;and the devices that power <a href="https://cyberlyra.github.io/cyberlyra/tags/homesteading/">my connected home</a>.&nbsp; Or maybe you want to know who I am--I don't blame you!--more about that is <a href="https://cyberlyra.github.io/cyberlyra/who-am-i/">here</a> or <a href="https://janet.vertesi.com" target="_blank">here</a>.
-  </p>
-
-  <p>
-    <strong>What this site is NOT</strong>
-  </p>
-
-  <p>
-    
-  </p>
-
-  <p>
-    This site is NOT going to help you with a tech detox. I'm not here to hate on technology, or tell you to go live in a cave.&nbsp;
-  </p>
-
-  <p>
-    I actually love technology. I'm a sociologist of science and technology and I got a whole PhD in the study of technology and society. I publish research in human-computer interaction and I work with NASA spacecraft teams. I'm now a professor at Princeton, where I am an expert in the study of technology and how it intersects with society. When I'm not teaching or researching I spend my spare time hacking phones and building voice assistants using Raspberry Pi's.
-  </p>
-
-  <p>
-    Of all people, I don't think the answer is to leave technology behind altogether.&nbsp;
-  </p>
-
-  <p>
-    That said, I think we need to leave <i>these </i>technologies. Google. Meta. Other algorithmic systems that blend search or friendship with advertising, serve information up with a heaping dose of surveillance, and lead us all astray.&nbsp;Companies that went from "Don't be evil" to, well, being evil. Companies that ignored the warning signs and marched us boldly into a world suffused with dysfunction.
-  </p>
-
-  <p>
-    
-  </p>
-
-  <p>
-    I'm sharing this knowledge because it's time for a better future. It's time to put us all in the drivers' seat, to demand different tools, and to start living a better life online.
-  </p>
-
-  <p>
-    <strong>It's time to opt out.</strong>
-  </p>
+    <h3 id="dont-drop-out-opt-out">
+      Don't drop out, opt out.
+    </h3>
 
   <p>
     

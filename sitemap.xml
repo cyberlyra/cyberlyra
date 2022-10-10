@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cyberlyra.github.io/cyberlyra/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://www.optoutproject.net/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/</loc>
+<loc>http://www.optoutproject.net/</loc>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/divide-your-data-and-conquer-big-tech/</loc>
+<loc>http://www.optoutproject.net/divide-your-data-and-conquer-big-tech/</loc>
 <lastmod>2022-09-28T13:40:32-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/how-to-the-tech-break-up/</loc>
+<loc>http://www.optoutproject.net/how-to-the-tech-break-up/</loc>
 <lastmod>2022-09-28T13:42:36-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/my-privacy-policy/</loc>
+<loc>http://www.optoutproject.net/my-privacy-policy/</loc>
 <lastmod>2022-10-07T22:46:59-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/sailfish-the-iphone-and-android-alternative/</loc>
+<loc>http://www.optoutproject.net/sailfish-the-iphone-and-android-alternative/</loc>
 <lastmod>2022-09-28T13:41:21-04:00</lastmod>
 <image:image>
-<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/5/Sailfishing21.jpg</image:loc>
+<image:loc>http://www.optoutproject.net/media/posts/5/Sailfishing21.jpg</image:loc>
 <image:title><![CDATA[Five generations of Sailfish Phones I have loved.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/the-best-non-google-search-engine/</loc>
+<loc>http://www.optoutproject.net/the-best-non-google-search-engine/</loc>
 <lastmod>2022-09-29T19:01:03-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/the-secrets-to-my-success/</loc>
-<lastmod>2022-10-04T12:48:08-04:00</lastmod>
+<loc>http://www.optoutproject.net/the-secrets-to-my-success/</loc>
+<lastmod>2022-10-09T20:31:50-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/this-is-a-first-post-title/</loc>
+<loc>http://www.optoutproject.net/this-is-a-first-post-title/</loc>
 <lastmod>2022-10-04T12:43:53-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/this-is-a-first-post-title-2/</loc>
+<loc>http://www.optoutproject.net/this-is-a-first-post-title-2/</loc>
 <lastmod>2022-10-04T12:43:37-04:00</lastmod>
 </url>
 <url>
-<loc>https://cyberlyra.github.io/cyberlyra/who-am-i/</loc>
+<loc>http://www.optoutproject.net/who-am-i/</loc>
 <lastmod>2022-10-04T12:51:23-04:00</lastmod>
 <image:image>
-<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/13/tweet.png</image:loc>
+<image:loc>http://www.optoutproject.net/media/posts/13/tweet.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://cyberlyra.github.io/cyberlyra/media/posts/13/IMG_5374.JPG</image:loc>
+<image:loc>http://www.optoutproject.net/media/posts/13/IMG_5374.JPG</image:loc>
 <image:title><![CDATA[I have a lot of alternative, old, or hackable phones. Here are a few of them.]]></image:title>
 </image:image>
 </url>

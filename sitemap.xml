@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://www.optoutproject.net/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.optoutproject.net/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://www.optoutproject.net/</loc>
+<loc>https://www.optoutproject.net/</loc>
 </url>
 <url>
-<loc>http://www.optoutproject.net/about-the-opt-out-project/</loc>
+<loc>https://www.optoutproject.net/about-the-opt-out-project/</loc>
 <lastmod>2022-10-12T21:13:04-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/16/Three-alt-phones-2016-1.jpg</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/16/Three-alt-phones-2016-1.jpg</image:loc>
 <image:title><![CDATA[Three alternative cell phones, circa 2016]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://www.optoutproject.net/my-privacy-policy/</loc>
+<loc>https://www.optoutproject.net/my-privacy-policy/</loc>
 <lastmod>2022-10-12T16:16:25-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/14/Lock-2.png</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/14/Lock-2.png</image:loc>
 <image:title><![CDATA[Lock and key]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://www.optoutproject.net/the-best-non-google-search-engine/</loc>
+<loc>https://www.optoutproject.net/the-best-non-google-search-engine/</loc>
 <lastmod>2022-10-12T21:12:34-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/2/No-Google.jpg</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/2/No-Google.jpg</image:loc>
 <image:title><![CDATA[Crossed out Google logo]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://www.optoutproject.net/the-secrets-to-my-success/</loc>
+<loc>https://www.optoutproject.net/the-secrets-to-my-success/</loc>
 <lastmod>2022-10-12T16:40:55-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/15/No-Google-round-2.png</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/15/No-Google-round-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://www.optoutproject.net/welcome-to-the-opt-out-project/</loc>
+<loc>https://www.optoutproject.net/welcome-to-the-opt-out-project/</loc>
 <lastmod>2022-10-12T21:12:22-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/1/Kahve_header-1.png</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/1/Kahve_header-1.png</image:loc>
 <image:title><![CDATA[Would you rather ... have no cell phone or no computer?]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>http://www.optoutproject.net/who-am-i/</loc>
+<loc>https://www.optoutproject.net/who-am-i/</loc>
 <lastmod>2022-10-12T16:24:35-04:00</lastmod>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/13/tweet.png</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/13/tweet.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>http://www.optoutproject.net/media/posts/13/Alt_phones-2.jpg</image:loc>
+<image:loc>https://www.optoutproject.net/media/posts/13/Alt_phones-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>

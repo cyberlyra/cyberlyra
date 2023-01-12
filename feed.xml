@@ -3,23 +3,23 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2023-01-11T23:53:17-05:00</updated>
+    <updated>2023-01-12T00:01:06-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
     <entry>
-        <title>A different way to use email</title>
+        <title>The Opt Out Way to Use Email</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
         <link href="https://www.optoutproject.net/what-email-address-should-i-use/"/>
         <id>https://www.optoutproject.net/what-email-address-should-i-use/</id>
+            <category term="Techniques"/>
             <category term="Reviews"/>
-            <category term="Email"/>
 
-        <updated>2023-01-11T23:53:17-05:00</updated>
+        <updated>2023-01-12T00:01:06-05:00</updated>
             <summary>
                 <![CDATA[
                     One inbox to rule them all. Not long ago, Google sold us all on this idea, with their seemingly limitless&hellip;

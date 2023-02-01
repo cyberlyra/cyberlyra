@@ -30,7 +30,7 @@
 </url>
 <url>
 <loc>https://www.optoutproject.net/adventures-and-misadventures-in-data-privacy/</loc>
-<lastmod>2023-01-23T21:16:20-05:00</lastmod>
+<lastmod>2023-02-01T08:18:39-05:00</lastmod>
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/31/target_run-sm2.jpg</image:loc>
 <image:title><![CDATA[Person on screen in mask and glasses at Target checkout, labeled "recording in progress"]]></image:title>
@@ -74,7 +74,7 @@
 </url>
 <url>
 <loc>https://www.optoutproject.net/my-privacy-policy/</loc>
-<lastmod>2022-10-12T16:16:25-04:00</lastmod>
+<lastmod>2023-02-01T00:55:36-05:00</lastmod>
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/14/Lock-2.png</image:loc>
 <image:title><![CDATA[Lock and key]]></image:title>
@@ -166,6 +166,14 @@
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/19/vote-2.png</image:loc>
 <image:title><![CDATA["your vote counts" badge]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.optoutproject.net/why-this-site-isnt-a-substack/</loc>
+<lastmod>2023-02-01T00:47:43-05:00</lastmod>
+<image:image>
+<image:loc>https://www.optoutproject.net/media/posts/24/DDG-Privacy.png</image:loc>
+<image:title><![CDATA[DuckDuckGo Privacy Essentials page rating: connection encrypted, no tracking requests found, no third party requests. no companies are trying to load tracking requests on this page.]]></image:title>
 </image:image>
 </url>
 </urlset>

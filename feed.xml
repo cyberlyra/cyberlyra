@@ -3,12 +3,29 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2023-03-02T12:53:31-05:00</updated>
+    <updated>2023-03-08T15:16:07-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>iCloud or Your Cloud?</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/icloud-or-your-cloud/"/>
+        <id>https://www.optoutproject.net/icloud-or-your-cloud/</id>
+            <category term="Reviews"/>
+
+        <updated>2023-03-08T15:16:07-05:00</updated>
+            <summary>
+                <![CDATA[
+                    March 8, 2023: the day of the first ever "Cloud Strike." What do you know about the cloud anyway? And&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Data-Free Disneyland</title>
         <author>
@@ -165,24 +182,6 @@
             <summary>
                 <![CDATA[
                     You've may have heard about my pregnancy experiment: the one where I went viral for keeping my (first) pregnancy away&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why We Must Vote With Our Feet</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/why-leave-3-voting-with-our-feet/"/>
-        <id>https://www.optoutproject.net/why-leave-3-voting-with-our-feet/</id>
-            <category term="Philosophy"/>
-            <category term="Basics"/>
-
-        <updated>2022-11-08T15:02:26-05:00</updated>
-            <summary>
-                <![CDATA[
-                    “Everyone has a choice – at least theoretically – but only a few have a say” (John Weeks, 2004: 138.
                 ]]>
             </summary>
         <content></content>

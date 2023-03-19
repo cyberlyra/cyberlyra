@@ -3,12 +3,29 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2023-03-08T15:22:18-05:00</updated>
+    <updated>2023-03-19T14:03:02-04:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>From Impact to Input: Why I&#x27;m Still Hopeful About the Future of Tech</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/why-im-still-hopeful-about-the-future-of-tech/"/>
+        <id>https://www.optoutproject.net/why-im-still-hopeful-about-the-future-of-tech/</id>
+            <category term="Philosophy"/>
+
+        <updated>2023-03-19T14:03:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Q: How do you not get depressed about the state of information and how much it is used in terrible&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>iCloud or Your Cloud?</title>
         <author>
@@ -164,24 +181,6 @@
             <summary>
                 <![CDATA[
                     Hold onto your hats, because parenthood's many "inconveniences" start now. So you want to have a private pregnancy? Maybe you&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>How to Have a Private Pregnancy</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/how-to-keep-your-pregnancy-private/"/>
-        <id>https://www.optoutproject.net/how-to-keep-your-pregnancy-private/</id>
-            <category term="Tales"/>
-            <category term="Reproduction"/>
-
-        <updated>2023-01-23T21:17:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    You've may have heard about my pregnancy experiment: the one where I went viral for keeping my (first) pregnancy away&hellip;
                 ]]>
             </summary>
         <content></content>

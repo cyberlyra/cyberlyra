@@ -3,12 +3,30 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2024-06-09T17:27:46-04:00</updated>
+    <updated>2024-06-13T11:35:54-04:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>Why I bought an Encyclopedia</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/what-is-true-on-the-internet/"/>
+        <id>https://www.optoutproject.net/what-is-true-on-the-internet/</id>
+            <category term="Tales"/>
+            <category term="Philosophy"/>
+
+        <updated>2024-06-13T11:35:54-04:00</updated>
+            <summary>
+                <![CDATA[
+                    NOTE: This is a companion post to my piece in Public Books, "The Encylopedia Project: Or, how to know in&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Linux is like Ice Cream</title>
         <author>
@@ -154,28 +172,10 @@
         <id>https://www.optoutproject.net/data-free-disney/</id>
             <category term="Tales"/>
 
-        <updated>2023-01-31T19:17:52-05:00</updated>
+        <updated>2024-06-13T09:37:30-04:00</updated>
             <summary>
                 <![CDATA[
                     (Note: This is the companion post to my article at Public Books about evading data detection at Disneyland. For the&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Why this site isn&#x27;t a Substack</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/why-this-site-isnt-a-substack/"/>
-        <id>https://www.optoutproject.net/why-this-site-isnt-a-substack/</id>
-            <category term="Reviews"/>
-            <category term="Philosophy"/>
-
-        <updated>2023-03-02T12:53:31-05:00</updated>
-            <summary>
-                <![CDATA[
-                    People have a lot to say these days. They are using the platforms to get their voices heard, to ensure&hellip;
                 ]]>
             </summary>
         <content></content>

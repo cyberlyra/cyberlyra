@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/day-one-getting-set-up/",
+            "url": "https://www.optoutproject.net/day-one-getting-set-up/",
+            "title": "Day One: Getting Set Up",
+            "summary": "Day One of the Cyber-Cleanse Your assignment today is to read the introduction to the Cyber-cleanse and to make two&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-01T23:33:45-05:00",
+            "date_modified": "2025-01-01T23:45:20-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
             "url": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
             "title": "The Cyber-Cleanse: Take Back Your Digital Footprint",
@@ -18,9 +32,12 @@
                 "name": "Janet Vertesi"
             },
             "tags": [
+                   "Techniques",
+                   "Cleanse",
+                   "Basics"
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-01T22:55:11-05:00"
+            "date_modified": "2025-01-01T23:51:30-05:00"
         },
         {
             "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
@@ -134,20 +151,6 @@
             ],
             "date_published": "2023-03-19T09:53:32-04:00",
             "date_modified": "2023-03-19T14:03:02-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/icloud-or-your-cloud/",
-            "url": "https://www.optoutproject.net/icloud-or-your-cloud/",
-            "title": "iCloud or Your Cloud?",
-            "summary": "March 8, 2023: the day of the first ever \"Cloud Strike.\" What do you know about the cloud anyway? And&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Reviews"
-            ],
-            "date_published": "2023-03-07T09:42:33-05:00",
-            "date_modified": "2023-03-08T15:22:18-05:00"
         }
     ]
 }

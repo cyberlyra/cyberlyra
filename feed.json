@@ -1,0 +1,153 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Opt Out Project",
+    "description": "",
+    "home_page_url": "https://www.optoutproject.net",
+    "feed_url": "https://www.optoutproject.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Janet Vertesi"
+    },
+    "items": [
+        {
+            "id": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
+            "url": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
+            "title": "The Cyber-Cleanse: Take Back Your Digital Footprint",
+            "summary": "New Year, New Digital You! New Years are an opportunity for committing to resolutions, starting new habits, discarding what no&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-01T22:09:27-05:00",
+            "date_modified": "2025-01-01T22:55:11-05:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
+            "url": "https://www.optoutproject.net/what-is-true-on-the-internet/",
+            "title": "Why I bought an Encyclopedia",
+            "summary": "NOTE: This is a companion post to my piece in Public Books, \"The Encylopedia Project: Or, how to know in&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Tales",
+                   "Philosophy"
+            ],
+            "date_published": "2024-06-11T11:00:00-04:00",
+            "date_modified": "2024-06-13T11:35:54-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/linux-is-like-ice-cream/",
+            "url": "https://www.optoutproject.net/linux-is-like-ice-cream/",
+            "title": "Linux is like Ice Cream",
+            "summary": "Princeton is famous for its university, but the town is also known for its amazing ice cream shops. There are&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews"
+            ],
+            "date_published": "2024-06-09T15:28:40-04:00",
+            "date_modified": "2024-06-09T17:27:46-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/chromebook-schmomebook/",
+            "url": "https://www.optoutproject.net/chromebook-schmomebook/",
+            "title": "Chromebook? Schmomebook!",
+            "summary": "When is a computer not a computer? When it's a tracking device too! Today's computers are increasingly used for data-gathering,&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews"
+            ],
+            "date_published": "2024-05-31T13:25:53-04:00",
+            "date_modified": "2024-06-09T17:18:44-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/offline-gaming-go-retro/",
+            "url": "https://www.optoutproject.net/offline-gaming-go-retro/",
+            "title": "Offline Gaming: Go Retro",
+            "summary": "Roblox. Activision. Valve, Sony, Sega and Nintendo. These are big data companies too. They just grab your data in a&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews"
+            ],
+            "date_published": "2024-05-31T10:12:57-04:00",
+            "date_modified": "2024-05-31T13:09:49-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/a-better-way-to-ai/",
+            "url": "https://www.optoutproject.net/a-better-way-to-ai/",
+            "title": "A better way to A.I.",
+            "summary": "Boy is there a lot of hype about AI today. You'd think it was absolutely novel, completely new, and destined&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews",
+                   "Philosophy"
+            ],
+            "date_published": "2023-10-19T14:46:16-04:00",
+            "date_modified": "2023-10-19T14:49:49-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/bbc-radio-4-feature/",
+            "url": "https://www.optoutproject.net/bbc-radio-4-feature/",
+            "title": "BBC Radio 4 Feature",
+            "summary": "My evasion work was featured on BBC Radio 4's Digital Human in the episode \"OVERTURN\". What happens when the data&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Tales"
+            ],
+            "date_published": "2023-03-28T20:05:40-04:00",
+            "date_modified": "2023-03-28T20:07:48-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/remote-work-references/",
+            "url": "https://www.optoutproject.net/remote-work-references/",
+            "title": "Remote Work References",
+            "summary": "Top resources: Olson, G. M. &amp; Olson, J. Distance Matters. Human Computer Interaction 15, 139–178 (2000). Distributed Work, https://direct.mit.edu/books/book/3808/Distributed-Work Open&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-22T11:05:52-04:00",
+            "date_modified": "2023-03-28T18:03:16-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/why-im-still-hopeful-about-the-future-of-tech/",
+            "url": "https://www.optoutproject.net/why-im-still-hopeful-about-the-future-of-tech/",
+            "title": "From Impact to Input: Why I&#x27;m Still Hopeful About the Future of Tech",
+            "summary": "Q: How do you not get depressed about the state of information and how much it is used in terrible&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Philosophy"
+            ],
+            "date_published": "2023-03-19T09:53:32-04:00",
+            "date_modified": "2023-03-19T14:03:02-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/icloud-or-your-cloud/",
+            "url": "https://www.optoutproject.net/icloud-or-your-cloud/",
+            "title": "iCloud or Your Cloud?",
+            "summary": "March 8, 2023: the day of the first ever \"Cloud Strike.\" What do you know about the cloud anyway? And&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Reviews"
+            ],
+            "date_published": "2023-03-07T09:42:33-05:00",
+            "date_modified": "2023-03-08T15:22:18-05:00"
+        }
+    ]
+}

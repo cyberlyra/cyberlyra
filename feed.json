@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/day-three-your-data-roadmap/",
+            "url": "https://www.optoutproject.net/day-three-your-data-roadmap/",
+            "title": "Day Three: Your Data Roadmap",
+            "summary": "Today's plan is this: you are going to make a list. Of all your online accounts. Yes, all of them.",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Philosophy",
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-03T22:42:10-05:00",
+            "date_modified": "2025-01-03T22:48:56-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/day-two-better-browsing/",
             "url": "https://www.optoutproject.net/day-two-better-browsing/",
             "title": "Day Two: Better Browsing",
@@ -22,7 +37,7 @@
                    "Cleanse"
             ],
             "date_published": "2025-01-02T18:42:16-05:00",
-            "date_modified": "2025-01-02T22:03:51-05:00"
+            "date_modified": "2025-01-02T22:25:21-05:00"
         },
         {
             "id": "https://www.optoutproject.net/day-one-getting-set-up/",
@@ -52,7 +67,7 @@
                    "Basics"
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-02T22:00:35-05:00"
+            "date_modified": "2025-01-03T22:42:34-05:00"
         },
         {
             "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
@@ -81,7 +96,7 @@
                    "Reviews"
             ],
             "date_published": "2024-06-09T15:28:40-04:00",
-            "date_modified": "2024-06-09T17:27:46-04:00"
+            "date_modified": "2025-01-02T22:28:52-05:00"
         },
         {
             "id": "https://www.optoutproject.net/chromebook-schmomebook/",
@@ -139,19 +154,6 @@
             ],
             "date_published": "2023-03-28T20:05:40-04:00",
             "date_modified": "2023-03-28T20:07:48-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/remote-work-references/",
-            "url": "https://www.optoutproject.net/remote-work-references/",
-            "title": "Remote Work References",
-            "summary": "Top resources: Olson, G. M. &amp; Olson, J. Distance Matters. Human Computer Interaction 15, 139–178 (2000). Distributed Work, https://direct.mit.edu/books/book/3808/Distributed-Work Open&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-03-22T11:05:52-04:00",
-            "date_modified": "2023-03-28T18:03:16-04:00"
         }
     ]
 }

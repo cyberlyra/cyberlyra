@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/day-six-leave-gmail/",
+            "url": "https://www.optoutproject.net/day-six-leave-gmail/",
+            "title": "Day Six: Leave Gmail",
+            "summary": "You are ready to take the plunge! (Yes, you are!)",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-05T21:49:58-05:00",
+            "date_modified": "2025-01-05T21:49:58-05:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/day-five-masking-email-addresses/",
+            "url": "https://www.optoutproject.net/day-five-masking-email-addresses/",
+            "title": "Day Five: Masking Email Addresses",
+            "summary": "Task #2: Setting up an Email Mask Congratulations, you have set up a new, super private email account! Maybe even&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Email",
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-05T00:48:39-05:00",
+            "date_modified": "2025-01-05T21:56:30-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/day-four-secure-your-email/",
             "url": "https://www.optoutproject.net/day-four-secure-your-email/",
             "title": "Day Four: Secure Your Email",
@@ -18,10 +46,11 @@
                 "name": "Janet Vertesi"
             },
             "tags": [
+                   "Email",
                    "Cleanse"
             ],
             "date_published": "2025-01-04T23:41:23-05:00",
-            "date_modified": "2025-01-05T00:49:35-05:00"
+            "date_modified": "2025-01-05T21:56:40-05:00"
         },
         {
             "id": "https://www.optoutproject.net/day-three-your-data-roadmap/",
@@ -81,7 +110,7 @@
                    "Basics"
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-04T23:47:13-05:00"
+            "date_modified": "2025-01-05T21:57:20-05:00"
         },
         {
             "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
@@ -125,35 +154,6 @@
             ],
             "date_published": "2024-05-31T13:25:53-04:00",
             "date_modified": "2024-06-09T17:18:44-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/offline-gaming-go-retro/",
-            "url": "https://www.optoutproject.net/offline-gaming-go-retro/",
-            "title": "Offline Gaming: Go Retro",
-            "summary": "Roblox. Activision. Valve, Sony, Sega and Nintendo. These are big data companies too. They just grab your data in a&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Reviews"
-            ],
-            "date_published": "2024-05-31T10:12:57-04:00",
-            "date_modified": "2024-05-31T13:09:49-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/a-better-way-to-ai/",
-            "url": "https://www.optoutproject.net/a-better-way-to-ai/",
-            "title": "A better way to A.I.",
-            "summary": "Boy is there a lot of hype about AI today. You'd think it was absolutely novel, completely new, and destined&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Reviews",
-                   "Philosophy"
-            ],
-            "date_published": "2023-10-19T14:46:16-04:00",
-            "date_modified": "2023-10-19T14:49:49-04:00"
         }
     ]
 }

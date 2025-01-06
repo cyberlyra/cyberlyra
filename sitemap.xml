@@ -53,11 +53,27 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.optoutproject.net/better-browsing/</loc>
+<lastmod>2025-01-05T22:02:04-05:00</lastmod>
+<image:image>
+<image:loc>https://www.optoutproject.net/media/posts/52/browsers.jpg</image:loc>
+<image:title><![CDATA[A comic featuring browser logos agitating for "more speed," including Chrome, Firefox, Explorer, Opera, and Safari. Explorer is hopelessly behind.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.optoutproject.net/chromebook-schmomebook/</loc>
 <lastmod>2024-06-09T17:18:44-04:00</lastmod>
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/47/linux-laptops.png</image:loc>
 <image:title><![CDATA[Three linux laptops]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.optoutproject.net/cleanse-day-one/</loc>
+<lastmod>2025-01-05T22:02:36-05:00</lastmod>
+<image:image>
+<image:loc>https://www.optoutproject.net/media/posts/51/harddrive.png</image:loc>
+<image:title><![CDATA[An external harddrive with USB cable, circa 2022.]]></image:title>
 </image:image>
 </url>
 <url>
@@ -69,43 +85,11 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.optoutproject.net/day-five-masking-email-addresses/</loc>
-<lastmod>2025-01-05T21:56:30-05:00</lastmod>
-<image:image>
-<image:loc>https://www.optoutproject.net/media/posts/56/Drama-Mask-Theatre-PNG-Download-Image.png</image:loc>
-<image:title><![CDATA[Drama masks.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.optoutproject.net/day-four-secure-your-email/</loc>
-<lastmod>2025-01-05T21:56:40-05:00</lastmod>
-<image:image>
-<image:loc>https://www.optoutproject.net/media/posts/54/Youve_got_mail.png</image:loc>
-<image:title><![CDATA[Generic mail app logo]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.optoutproject.net/day-one-getting-set-up/</loc>
-<lastmod>2025-01-02T22:01:10-05:00</lastmod>
-<image:image>
-<image:loc>https://www.optoutproject.net/media/posts/51/harddrive.png</image:loc>
-<image:title><![CDATA[An external harddrive with USB cable, circa 2022.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.optoutproject.net/day-three-your-data-roadmap/</loc>
-<lastmod>2025-01-04T23:47:27-05:00</lastmod>
+<loc>https://www.optoutproject.net/data-roadmap/</loc>
+<lastmod>2025-01-05T22:02:14-05:00</lastmod>
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/53/road_PNG32.png</image:loc>
 <image:title><![CDATA[A road snaking through the field of view.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://www.optoutproject.net/day-two-better-browsing/</loc>
-<lastmod>2025-01-02T22:25:21-05:00</lastmod>
-<image:image>
-<image:loc>https://www.optoutproject.net/media/posts/52/browsers.jpg</image:loc>
-<image:title><![CDATA[A comic featuring browser logos agitating for "more speed," including Chrome, Firefox, Explorer, Opera, and Safari. Explorer is hopelessly behind.]]></image:title>
 </image:image>
 </url>
 <url>
@@ -173,6 +157,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://www.optoutproject.net/mask-email/</loc>
+<lastmod>2025-01-05T22:02:48-05:00</lastmod>
+<image:image>
+<image:loc>https://www.optoutproject.net/media/posts/56/Drama-Mask-Theatre-PNG-Download-Image.png</image:loc>
+<image:title><![CDATA[Drama masks.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://www.optoutproject.net/my-privacy-policy/</loc>
 <lastmod>2023-03-02T12:44:37-05:00</lastmod>
 <image:image>
@@ -226,6 +218,14 @@
 <image:image>
 <image:loc>https://www.optoutproject.net/media/posts/5/N9-copy.jpg</image:loc>
 <image:title><![CDATA[Nokia N9 phone]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.optoutproject.net/secure-email/</loc>
+<lastmod>2025-01-05T22:02:23-05:00</lastmod>
+<image:image>
+<image:loc>https://www.optoutproject.net/media/posts/54/Youve_got_mail.png</image:loc>
+<image:title><![CDATA[Generic mail app logo]]></image:title>
 </image:image>
 </url>
 <url>

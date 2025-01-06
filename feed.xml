@@ -10,22 +10,6 @@
     <id>https://www.optoutproject.net</id>
 
     <entry>
-        <title>Day Six: Leave Gmail</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/day-six-leave-gmail/"/>
-        <id>https://www.optoutproject.net/day-six-leave-gmail/</id>
-
-        <updated>2025-01-05T21:49:58-05:00</updated>
-            <summary>
-                <![CDATA[
-                    You are ready to take the plunge! (Yes, you are!)
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Day Five: Masking Email Addresses</title>
         <author>
             <name>Janet Vertesi</name>
@@ -181,6 +165,23 @@
             <summary>
                 <![CDATA[
                     When is a computer not a computer? When it's a tracking device too! Today's computers are increasingly used for data-gathering,&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Offline Gaming: Go Retro</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/offline-gaming-go-retro/"/>
+        <id>https://www.optoutproject.net/offline-gaming-go-retro/</id>
+            <category term="Reviews"/>
+
+        <updated>2024-05-31T13:09:49-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Roblox. Activision. Valve, Sony, Sega and Nintendo. These are big data companies too. They just grab your data in a&hellip;
                 ]]>
             </summary>
         <content></content>

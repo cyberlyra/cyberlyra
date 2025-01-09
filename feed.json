@@ -25,6 +25,20 @@
             "date_modified": "2025-01-06T23:33:56-05:00"
         },
         {
+            "id": "https://www.optoutproject.net/contacts-calendars/",
+            "url": "https://www.optoutproject.net/contacts-calendars/",
+            "title": "Day Eight: Contacts and Calendars",
+            "summary": "What??? Boring!!! Ugh Contacts and Calendars? This sounds suuuuuper boring. Especially when (at time of writing) Facebook is in the&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-05T00:54:06-05:00",
+            "date_modified": "2025-01-08T23:15:53-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/mask-email/",
             "url": "https://www.optoutproject.net/mask-email/",
             "title": "Day Five: Masking Email Addresses",
@@ -51,7 +65,7 @@
                    "Cleanse"
             ],
             "date_published": "2025-01-05T00:35:55-05:00",
-            "date_modified": "2025-01-07T22:24:24-05:00"
+            "date_modified": "2025-01-07T22:26:29-05:00"
         },
         {
             "id": "https://www.optoutproject.net/secure-email/",
@@ -126,7 +140,7 @@
                    "Basics"
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-07T22:24:15-05:00"
+            "date_modified": "2025-01-08T23:16:22-05:00"
         },
         {
             "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
@@ -142,20 +156,6 @@
             ],
             "date_published": "2024-06-11T11:00:00-04:00",
             "date_modified": "2024-06-13T11:35:54-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/linux-is-like-ice-cream/",
-            "url": "https://www.optoutproject.net/linux-is-like-ice-cream/",
-            "title": "Linux is like Ice Cream",
-            "summary": "Princeton is famous for its university, but the town is also known for its amazing ice cream shops. There are&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Reviews"
-            ],
-            "date_published": "2024-06-09T15:28:40-04:00",
-            "date_modified": "2025-01-02T22:28:52-05:00"
         }
     ]
 }

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/secure-messaging/",
+            "url": "https://www.optoutproject.net/secure-messaging/",
+            "title": "Day Nine: Secure Messaging",
+            "summary": "Fresh, untracked browser or two? Check. New secure email systems with masking set up? Check. Contacts and calendars switched over?&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-09T22:37:36-05:00",
+            "date_modified": "2025-01-09T22:38:36-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/leave-gmail/",
             "url": "https://www.optoutproject.net/leave-gmail/",
             "title": "Day Six: Leave Gmail (or another provider)",
@@ -140,22 +154,7 @@
                    "Basics"
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-08T23:16:22-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
-            "url": "https://www.optoutproject.net/what-is-true-on-the-internet/",
-            "title": "Why I bought an Encyclopedia",
-            "summary": "NOTE: This is a companion post to my piece in Public Books, \"The Encylopedia Project: Or, how to know in&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Tales",
-                   "Philosophy"
-            ],
-            "date_published": "2024-06-11T11:00:00-04:00",
-            "date_modified": "2024-06-13T11:35:54-04:00"
+            "date_modified": "2025-01-09T22:38:00-05:00"
         }
     ]
 }

@@ -3,12 +3,29 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-01-10T23:15:10-05:00</updated>
+    <updated>2025-01-11T17:56:29-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>Day Eleven: Get Social Again</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/get-social-again/"/>
+        <id>https://www.optoutproject.net/get-social-again/</id>
+            <category term="Cleanse"/>
+
+        <updated>2025-01-11T17:56:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Two weeks to change the world You've started in the process of getting your stuff off social media: great! But&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Day Ten: Leave Social Media</title>
         <author>
@@ -18,10 +35,10 @@
         <id>https://www.optoutproject.net/social-media-1/</id>
             <category term="Cleanse"/>
 
-        <updated>2025-01-10T23:15:10-05:00</updated>
+        <updated>2025-01-11T17:55:50-05:00</updated>
             <summary>
                 <![CDATA[
-                    A social, not just technical, tooklit There are a lot of posts out the on the internet that will teach&hellip;
+                    A social, not just technical, toolkit There are a lot of posts out the on the internet that will teach&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -163,23 +180,6 @@
             <summary>
                 <![CDATA[
                     According to statcounter.com, Google's Chrome browser currently enjoys over 68% marketshare, with Apple's Safari not even a close second at&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day One: Getting Set Up</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/cleanse-day-one/"/>
-        <id>https://www.optoutproject.net/cleanse-day-one/</id>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-05T22:02:36-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Day One of the Cyber-Cleanse Your assignment today is to read the introduction to the Cyber-cleanse and to make two&hellip;
                 ]]>
             </summary>
         <content></content>

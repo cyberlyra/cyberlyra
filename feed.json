@@ -10,10 +10,24 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/get-social-again/",
+            "url": "https://www.optoutproject.net/get-social-again/",
+            "title": "Day Eleven: Get Social Again",
+            "summary": "Two weeks to change the world You've started in the process of getting your stuff off social media: great! But&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-10T22:08:07-05:00",
+            "date_modified": "2025-01-11T17:56:29-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/social-media-1/",
             "url": "https://www.optoutproject.net/social-media-1/",
             "title": "Day Ten: Leave Social Media",
-            "summary": "A social, not just technical, tooklit There are a lot of posts out the on the internet that will teach&hellip;",
+            "summary": "A social, not just technical, toolkit There are a lot of posts out the on the internet that will teach&hellip;",
             "author": {
                 "name": "Janet Vertesi"
             },
@@ -21,7 +35,7 @@
                    "Cleanse"
             ],
             "date_published": "2025-01-10T22:07:50-05:00",
-            "date_modified": "2025-01-10T23:15:10-05:00"
+            "date_modified": "2025-01-11T17:55:50-05:00"
         },
         {
             "id": "https://www.optoutproject.net/secure-messaging/",
@@ -139,20 +153,6 @@
             ],
             "date_published": "2025-01-02T18:42:16-05:00",
             "date_modified": "2025-01-05T22:02:04-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/cleanse-day-one/",
-            "url": "https://www.optoutproject.net/cleanse-day-one/",
-            "title": "Day One: Getting Set Up",
-            "summary": "Day One of the Cyber-Cleanse Your assignment today is to read the introduction to the Cyber-cleanse and to make two&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-01T23:33:45-05:00",
-            "date_modified": "2025-01-05T22:02:36-05:00"
         }
     ]
 }

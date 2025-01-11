@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/social-media-1/",
+            "url": "https://www.optoutproject.net/social-media-1/",
+            "title": "Day Ten: Leave Social Media",
+            "summary": "A social, not just technical, tooklit There are a lot of posts out the on the internet that will teach&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-10T22:07:50-05:00",
+            "date_modified": "2025-01-10T23:15:10-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/secure-messaging/",
             "url": "https://www.optoutproject.net/secure-messaging/",
             "title": "Day Nine: Secure Messaging",
@@ -139,22 +153,6 @@
             ],
             "date_published": "2025-01-01T23:33:45-05:00",
             "date_modified": "2025-01-05T22:02:36-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
-            "url": "https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/",
-            "title": "The Cyber-Cleanse: Take Back Your Digital Footprint",
-            "summary": "New Year, New Digital You! New Years are an opportunity for committing to resolutions, starting new habits, discarding what no&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Techniques",
-                   "Cleanse",
-                   "Basics"
-            ],
-            "date_published": "2025-01-01T22:09:27-05:00",
-            "date_modified": "2025-01-09T22:38:00-05:00"
         }
     ]
 }

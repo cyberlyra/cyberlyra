@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/control-collaborations/",
+            "url": "https://www.optoutproject.net/control-collaborations/",
+            "title": "Day Seventeen: Control Your Collaborations",
+            "summary": "Cooperation makes it happen (dig it!) If you're like millions of other people in the world, you probably use some&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-17T22:46:15-05:00",
+            "date_modified": "2025-01-17T22:53:10-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/get-vpn/",
             "url": "https://www.optoutproject.net/get-vpn/",
             "title": "Day Sixteen: Get a VPN",
@@ -136,21 +150,6 @@
             ],
             "date_published": "2025-01-05T00:54:06-05:00",
             "date_modified": "2025-01-08T23:15:53-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/mask-email/",
-            "url": "https://www.optoutproject.net/mask-email/",
-            "title": "Day Five: Masking Email Addresses",
-            "summary": "Task #2: Setting up an Email Mask Congratulations, you have set up a new, super private email account! Maybe even&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Email",
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-05T00:48:39-05:00",
-            "date_modified": "2025-01-05T22:03:48-05:00"
         }
     ]
 }

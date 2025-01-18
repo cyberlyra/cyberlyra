@@ -3,12 +3,29 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-01-16T23:59:16-05:00</updated>
+    <updated>2025-01-17T22:53:10-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>Day Seventeen: Control Your Collaborations</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/control-collaborations/"/>
+        <id>https://www.optoutproject.net/control-collaborations/</id>
+            <category term="Cleanse"/>
+
+        <updated>2025-01-17T22:53:10-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Cooperation makes it happen (dig it!) If you're like millions of other people in the world, you probably use some&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Day Sixteen: Get a VPN</title>
         <author>
@@ -160,24 +177,6 @@
             <summary>
                 <![CDATA[
                     What??? Boring!!! Ugh Contacts and Calendars? This sounds suuuuuper boring. Especially when (at time of writing) Facebook is in the&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Five: Masking Email Addresses</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/mask-email/"/>
-        <id>https://www.optoutproject.net/mask-email/</id>
-            <category term="Email"/>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-05T22:03:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Task #2: Setting up an Email Mask Congratulations, you have set up a new, super private email account! Maybe even&hellip;
                 ]]>
             </summary>
         <content></content>

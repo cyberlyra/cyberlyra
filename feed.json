@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/photos/",
+            "url": "https://www.optoutproject.net/photos/",
+            "title": "Day Eighteen: Personal Photos",
+            "summary": "Who is doing what with your photos? Chances are you have put photos of yourself, your dog, cat, and kids&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Cleanse",
+                   "Apps"
+            ],
+            "date_published": "2025-01-17T23:16:53-05:00",
+            "date_modified": "2025-01-18T21:35:39-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/control-collaborations/",
             "url": "https://www.optoutproject.net/control-collaborations/",
             "title": "Day Seventeen: Control Your Collaborations",
@@ -136,20 +151,6 @@
             ],
             "date_published": "2025-01-05T21:49:58-05:00",
             "date_modified": "2025-01-06T23:33:56-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/contacts-calendars/",
-            "url": "https://www.optoutproject.net/contacts-calendars/",
-            "title": "Day Eight: Contacts and Calendars",
-            "summary": "What??? Boring!!! Ugh Contacts and Calendars? This sounds suuuuuper boring. Especially when (at time of writing) Facebook is in the&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-05T00:54:06-05:00",
-            "date_modified": "2025-01-08T23:15:53-05:00"
         }
     ]
 }

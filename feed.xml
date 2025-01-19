@@ -3,7 +3,7 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-01-18T21:35:39-05:00</updated>
+    <updated>2025-01-18T21:44:21-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
@@ -57,6 +57,23 @@
             <summary>
                 <![CDATA[
                     Hopefully you're working diligently through your Data Roadmap, deleting accounts you don't need, changing email masks and credit cards over&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Day Fifteen: Trash Unwanted Accounts</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/trash-unwanted-accounts/"/>
+        <id>https://www.optoutproject.net/trash-unwanted-accounts/</id>
+            <category term="Cleanse"/>
+
+        <updated>2025-01-18T21:44:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Take out the Trash This is the boring part of the course. Boring but necessary for internet hygiene. Like brushing&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -160,24 +177,6 @@
             <summary>
                 <![CDATA[
                     Fresh, untracked browser or two? Check. New secure email systems with masking set up? Check. Contacts and calendars switched over?&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Six: Leave Gmail (or another provider)</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/leave-gmail/"/>
-        <id>https://www.optoutproject.net/leave-gmail/</id>
-            <category term="Email"/>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-06T23:33:56-05:00</updated>
-            <summary>
-                <![CDATA[
-                    You have new email addresses. And you have an email program set up on your computer that is able to&hellip;
                 ]]>
             </summary>
         <content></content>

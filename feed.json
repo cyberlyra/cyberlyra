@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/adios-alexa/",
+            "url": "https://www.optoutproject.net/adios-alexa/",
+            "title": "Day Nineteen: Adios, Alexa!",
+            "summary": "Open Mic Night -- Every Night A few years ago companies lobbied for the ability to put an open microphone&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Voice Assistants",
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-17T23:20:55-05:00",
+            "date_modified": "2025-01-18T23:21:17-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/photos/",
             "url": "https://www.optoutproject.net/photos/",
             "title": "Day Eighteen: Personal Photos",
@@ -136,20 +151,6 @@
             ],
             "date_published": "2025-01-10T22:07:50-05:00",
             "date_modified": "2025-01-11T17:55:50-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/secure-messaging/",
-            "url": "https://www.optoutproject.net/secure-messaging/",
-            "title": "Day Nine: Secure Messaging",
-            "summary": "Fresh, untracked browser or two? Check. New secure email systems with masking set up? Check. Contacts and calendars switched over?&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-09T22:37:36-05:00",
-            "date_modified": "2025-01-09T22:47:49-05:00"
         }
     ]
 }

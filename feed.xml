@@ -3,12 +3,30 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-01-18T23:21:17-05:00</updated>
+    <updated>2025-01-20T09:50:00-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>Day Twenty: Fix your Phone</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/secure-phone/"/>
+        <id>https://www.optoutproject.net/secure-phone/</id>
+            <category term="Phones"/>
+            <category term="Cleanse"/>
+
+        <updated>2025-01-20T09:50:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                    You are walking around everyday with a massive tracking device that is hemmorhaging data all over the place, in your&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Day Nineteen: Adios, Alexa!</title>
         <author>
@@ -161,23 +179,6 @@
             <summary>
                 <![CDATA[
                     Two weeks to change the world You've started in the process of getting your stuff off social media: great! But&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Ten: Leave Social Media</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/social-media-1/"/>
-        <id>https://www.optoutproject.net/social-media-1/</id>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-11T17:55:50-05:00</updated>
-            <summary>
-                <![CDATA[
-                    A social, not just technical, toolkit There are a lot of posts out the on the internet that will teach&hellip;
                 ]]>
             </summary>
         <content></content>

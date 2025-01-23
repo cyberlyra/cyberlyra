@@ -3,12 +3,30 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-01-20T10:07:08-05:00</updated>
+    <updated>2025-01-23T18:12:20-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>Day Twenty-One: Look Forward</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/next-steps/"/>
+        <id>https://www.optoutproject.net/next-steps/</id>
+            <category term="Homesteading"/>
+            <category term="Cleanse"/>
+
+        <updated>2025-01-23T18:12:20-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Wow, look what you've done! You've changed your browser. You've identified where your data is, moved it to new alternatives,&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Day Twenty: Fix your Phone</title>
         <author>
@@ -55,7 +73,7 @@
             <category term="Cleanse"/>
             <category term="Apps"/>
 
-        <updated>2025-01-18T21:35:39-05:00</updated>
+        <updated>2025-01-23T17:22:15-05:00</updated>
             <summary>
                 <![CDATA[
                     Who is doing what with your photos? Chances are you have put photos of yourself, your dog, cat, and kids&hellip;
@@ -162,23 +180,6 @@
             <summary>
                 <![CDATA[
                     Up Next: Secure All Accounts! The big ticket items on your Data Roadmap should be looking pretty good by now.
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Eleven: Get Social Again</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/get-social-again/"/>
-        <id>https://www.optoutproject.net/get-social-again/</id>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-14T22:28:47-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Two weeks to change the world You've started in the process of getting your stuff off social media: great! But&hellip;
                 ]]>
             </summary>
         <content></content>

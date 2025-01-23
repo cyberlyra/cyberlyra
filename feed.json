@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/next-steps/",
+            "url": "https://www.optoutproject.net/next-steps/",
+            "title": "Day Twenty-One: Look Forward",
+            "summary": "Wow, look what you've done! You've changed your browser. You've identified where your data is, moved it to new alternatives,&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Homesteading",
+                   "Cleanse"
+            ],
+            "date_published": "2025-01-18T23:58:07-05:00",
+            "date_modified": "2025-01-23T18:12:20-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/secure-phone/",
             "url": "https://www.optoutproject.net/secure-phone/",
             "title": "Day Twenty: Fix your Phone",
@@ -52,7 +67,7 @@
                    "Apps"
             ],
             "date_published": "2025-01-17T23:16:53-05:00",
-            "date_modified": "2025-01-18T21:35:39-05:00"
+            "date_modified": "2025-01-23T17:22:15-05:00"
         },
         {
             "id": "https://www.optoutproject.net/control-collaborations/",
@@ -138,20 +153,6 @@
             ],
             "date_published": "2025-01-12T21:59:46-05:00",
             "date_modified": "2025-01-13T22:30:32-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/get-social-again/",
-            "url": "https://www.optoutproject.net/get-social-again/",
-            "title": "Day Eleven: Get Social Again",
-            "summary": "Two weeks to change the world You've started in the process of getting your stuff off social media: great! But&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-10T22:08:07-05:00",
-            "date_modified": "2025-01-14T22:28:47-05:00"
         }
     ]
 }

@@ -3,12 +3,29 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-03-28T00:00:54-04:00</updated>
+    <updated>2025-07-01T21:32:45-07:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>What to do on your (social media) vacation?</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/stop-the-scroll/"/>
+        <id>https://www.optoutproject.net/stop-the-scroll/</id>
+            <category term="Tales"/>
+
+        <updated>2025-07-01T21:32:45-07:00</updated>
+            <summary>
+                <![CDATA[
+                    I teach a class at Princeton called the Sociology of the Internet. Famously, one of the first exercises I make&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Will My Tech Enshittify? How to tell...</title>
         <author>
@@ -18,7 +35,7 @@
         <id>https://www.optoutproject.net/will-it-enshittify/</id>
             <category term="Philosophy"/>
 
-        <updated>2025-03-27T23:47:32-04:00</updated>
+        <updated>2025-03-27T20:47:32-07:00</updated>
             <summary>
                 <![CDATA[
                     The Enshittification Problem You've just found a cool new tool that does the thing you want to do. Or maybe&hellip;
@@ -35,7 +52,7 @@
         <id>https://www.optoutproject.net/smarter-watch/</id>
             <category term="Accessories"/>
 
-        <updated>2025-03-28T00:00:54-04:00</updated>
+        <updated>2025-03-27T21:00:54-07:00</updated>
             <summary>
                 <![CDATA[
                     Whence the Smart Watch? In 2012 the Pebble smartwatch hit Kickstarter, and the funding site exploded. While there had been&hellip;
@@ -53,7 +70,7 @@
             <category term="Homesteading"/>
             <category term="Cleanse"/>
 
-        <updated>2025-01-23T18:15:33-05:00</updated>
+        <updated>2025-01-23T15:15:33-08:00</updated>
             <summary>
                 <![CDATA[
                     Wow, look what you've done! You've changed your browser. You've identified where your data is, moved it to new alternatives,&hellip;
@@ -71,7 +88,7 @@
             <category term="Phones"/>
             <category term="Cleanse"/>
 
-        <updated>2025-03-23T23:17:19-04:00</updated>
+        <updated>2025-03-23T20:17:19-07:00</updated>
             <summary>
                 <![CDATA[
                     You are walking around everyday with a massive tracking device that is hemmorhaging data all over the place, in your&hellip;
@@ -89,7 +106,7 @@
             <category term="Voice Assistants"/>
             <category term="Cleanse"/>
 
-        <updated>2025-01-18T23:21:17-05:00</updated>
+        <updated>2025-01-18T20:21:17-08:00</updated>
             <summary>
                 <![CDATA[
                     Open Mic Night -- Every Night A few years ago companies lobbied for the ability to put an open microphone&hellip;
@@ -107,7 +124,7 @@
             <category term="Cleanse"/>
             <category term="Apps"/>
 
-        <updated>2025-01-25T11:33:37-05:00</updated>
+        <updated>2025-01-25T08:33:37-08:00</updated>
             <summary>
                 <![CDATA[
                     Who is doing what with your photos? Chances are you have put photos of yourself, your dog, cat, and kids&hellip;
@@ -124,7 +141,7 @@
         <id>https://www.optoutproject.net/control-collaborations/</id>
             <category term="Cleanse"/>
 
-        <updated>2025-01-17T22:57:55-05:00</updated>
+        <updated>2025-01-17T19:57:55-08:00</updated>
             <summary>
                 <![CDATA[
                     Cooperation makes it happen (dig it!) If you're like millions of other people in the world, you probably use some&hellip;
@@ -141,7 +158,7 @@
         <id>https://www.optoutproject.net/get-vpn/</id>
             <category term="Cleanse"/>
 
-        <updated>2025-01-16T23:59:16-05:00</updated>
+        <updated>2025-01-16T20:59:16-08:00</updated>
             <summary>
                 <![CDATA[
                     Hopefully you're working diligently through your Data Roadmap, deleting accounts you don't need, changing email masks and credit cards over&hellip;
@@ -158,27 +175,10 @@
         <id>https://www.optoutproject.net/trash-unwanted-accounts/</id>
             <category term="Cleanse"/>
 
-        <updated>2025-01-18T21:44:21-05:00</updated>
+        <updated>2025-01-18T18:44:21-08:00</updated>
             <summary>
                 <![CDATA[
                     Take out the Trash This is the boring part of the course. Boring but necessary for internet hygiene. Like brushing&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Fourteen: Replace Account Info</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/replace-accounts/"/>
-        <id>https://www.optoutproject.net/replace-accounts/</id>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-14T22:24:11-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Today is reserved for a very simple, but a very time-consuming task. Today you will start switching your KEEP accounts&hellip;
                 ]]>
             </summary>
         <content></content>

@@ -3,12 +3,30 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2025-07-01T21:37:08-07:00</updated>
+    <updated>2026-03-27T20:03:51-04:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>The Tech Reclaimers</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/the-tech-reclaimers/"/>
+        <id>https://www.optoutproject.net/the-tech-reclaimers/</id>
+            <category term="Tales"/>
+            <category term="Philosophy"/>
+
+        <updated>2026-03-27T20:03:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                    I've been working on this one for a while and am thrilled to introduce the Tech Reclaimers! We are a&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>What to do on your (social media) vacation?</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://www.optoutproject.net/stop-the-scroll/</id>
             <category term="Tales"/>
 
-        <updated>2025-07-01T21:37:08-07:00</updated>
+        <updated>2025-07-02T00:32:45-04:00</updated>
             <summary>
                 <![CDATA[
                     Stop the Scroll I teach a class at Princeton called the Sociology of the Internet. Famously, one of the first&hellip;
@@ -35,7 +53,7 @@
         <id>https://www.optoutproject.net/will-it-enshittify/</id>
             <category term="Philosophy"/>
 
-        <updated>2025-03-27T20:47:32-07:00</updated>
+        <updated>2025-03-27T18:04:21-04:00</updated>
             <summary>
                 <![CDATA[
                     The Enshittification Problem You've just found a cool new tool that does the thing you want to do. Or maybe&hellip;
@@ -52,28 +70,10 @@
         <id>https://www.optoutproject.net/smarter-watch/</id>
             <category term="Accessories"/>
 
-        <updated>2025-03-27T21:00:54-07:00</updated>
+        <updated>2025-03-23T23:11:10-04:00</updated>
             <summary>
                 <![CDATA[
                     Whence the Smart Watch? In 2012 the Pebble smartwatch hit Kickstarter, and the funding site exploded. While there had been&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Day Twenty-One: Look Forward</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/next-steps/"/>
-        <id>https://www.optoutproject.net/next-steps/</id>
-            <category term="Homesteading"/>
-            <category term="Cleanse"/>
-
-        <updated>2025-01-23T15:15:33-08:00</updated>
-            <summary>
-                <![CDATA[
-                    Wow, look what you've done! You've changed your browser. You've identified where your data is, moved it to new alternatives,&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -88,7 +88,7 @@
             <category term="Phones"/>
             <category term="Cleanse"/>
 
-        <updated>2025-03-23T20:17:19-07:00</updated>
+        <updated>2025-01-18T23:17:24-05:00</updated>
             <summary>
                 <![CDATA[
                     You are walking around everyday with a massive tracking device that is hemmorhaging data all over the place, in your&hellip;
@@ -97,88 +97,89 @@
         <content></content>
     </entry>
     <entry>
-        <title>Day Nineteen: Adios, Alexa!</title>
+        <title>Day Ten: Leave Social Media</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
-        <link href="https://www.optoutproject.net/adios-alexa/"/>
-        <id>https://www.optoutproject.net/adios-alexa/</id>
-            <category term="Voice Assistants"/>
+        <link href="https://www.optoutproject.net/social-media-1/"/>
+        <id>https://www.optoutproject.net/social-media-1/</id>
             <category term="Cleanse"/>
 
-        <updated>2025-01-18T20:21:17-08:00</updated>
+        <updated>2025-01-10T22:07:50-05:00</updated>
             <summary>
                 <![CDATA[
-                    Open Mic Night -- Every Night A few years ago companies lobbied for the ability to put an open microphone&hellip;
+                    A social, not just technical, toolkit There are a lot of posts out the on the internet that will teach&hellip;
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Day Eighteen: Personal Photos</title>
+        <title>The Cyber-Cleanse: Take Back Your Digital Footprint</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
-        <link href="https://www.optoutproject.net/photos/"/>
-        <id>https://www.optoutproject.net/photos/</id>
+        <link href="https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/"/>
+        <id>https://www.optoutproject.net/the-cyber-cleanse-take-back-your-digital-footprint/</id>
+            <category term="Techniques"/>
             <category term="Cleanse"/>
-            <category term="Apps"/>
+            <category term="Basics"/>
 
-        <updated>2025-01-25T08:33:37-08:00</updated>
+        <updated>2025-01-01T22:09:27-05:00</updated>
             <summary>
                 <![CDATA[
-                    Who is doing what with your photos? Chances are you have put photos of yourself, your dog, cat, and kids&hellip;
+                    New Year, New Digital You! New Years are an opportunity for committing to resolutions, starting new habits, discarding what no&hellip;
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Day Seventeen: Control Your Collaborations</title>
+        <title>Why I bought an Encyclopedia</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
-        <link href="https://www.optoutproject.net/control-collaborations/"/>
-        <id>https://www.optoutproject.net/control-collaborations/</id>
-            <category term="Cleanse"/>
+        <link href="https://www.optoutproject.net/what-is-true-on-the-internet/"/>
+        <id>https://www.optoutproject.net/what-is-true-on-the-internet/</id>
+            <category term="Tales"/>
+            <category term="Philosophy"/>
 
-        <updated>2025-01-17T19:57:55-08:00</updated>
+        <updated>2024-06-11T11:00:00-04:00</updated>
             <summary>
                 <![CDATA[
-                    Cooperation makes it happen (dig it!) If you're like millions of other people in the world, you probably use some&hellip;
+                    NOTE: This is a companion post to my piece in Public Books, "The Encylopedia Project: Or, how to know in&hellip;
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Day Sixteen: Get a VPN</title>
+        <title>Linux is like Ice Cream</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
-        <link href="https://www.optoutproject.net/get-vpn/"/>
-        <id>https://www.optoutproject.net/get-vpn/</id>
-            <category term="Cleanse"/>
+        <link href="https://www.optoutproject.net/linux-is-like-ice-cream/"/>
+        <id>https://www.optoutproject.net/linux-is-like-ice-cream/</id>
+            <category term="Reviews"/>
 
-        <updated>2025-01-16T20:59:16-08:00</updated>
+        <updated>2024-06-09T15:28:40-04:00</updated>
             <summary>
                 <![CDATA[
-                    Hopefully you're working diligently through your Data Roadmap, deleting accounts you don't need, changing email masks and credit cards over&hellip;
+                    Princeton is famous for its university, but the town is also known for its amazing ice cream shops. There are&hellip;
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>Day Fifteen: Trash Unwanted Accounts</title>
+        <title>Chromebook? Schmomebook!</title>
         <author>
             <name>Janet Vertesi</name>
         </author>
-        <link href="https://www.optoutproject.net/trash-unwanted-accounts/"/>
-        <id>https://www.optoutproject.net/trash-unwanted-accounts/</id>
-            <category term="Cleanse"/>
+        <link href="https://www.optoutproject.net/chromebook-schmomebook/"/>
+        <id>https://www.optoutproject.net/chromebook-schmomebook/</id>
+            <category term="Reviews"/>
 
-        <updated>2025-01-18T18:44:21-08:00</updated>
+        <updated>2024-05-31T13:25:53-04:00</updated>
             <summary>
                 <![CDATA[
-                    Take out the Trash This is the boring part of the course. Boring but necessary for internet hygiene. Like brushing&hellip;
+                    When is a computer not a computer? When it's a tracking device too! Today's computers are increasingly used for data-gathering,&hellip;
                 ]]>
             </summary>
         <content></content>

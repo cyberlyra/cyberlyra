@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.optoutproject.net/egosystems/",
+            "url": "https://www.optoutproject.net/egosystems/",
+            "title": "The Clash of the Egosystems",
+            "summary": "A Really Bad Soap Opera We could be forgiven for thinking we live in a Silicon Valley soap opera. It's&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Philosophy"
+            ],
+            "date_published": "2026-07-13T20:00:46-04:00",
+            "date_modified": "2026-07-13T20:02:10-04:00"
+        },
+        {
             "id": "https://www.optoutproject.net/own-the-pipes/",
             "url": "https://www.optoutproject.net/own-the-pipes/",
             "title": "New Tech isn&#x27;t Sci Fi, it&#x27;s Monopoly",
@@ -18,10 +32,26 @@
                 "name": "Janet Vertesi"
             },
             "tags": [
+                   "Tales",
                    "Philosophy"
             ],
             "date_published": "2026-07-12T18:40:17-04:00",
-            "date_modified": "2026-07-12T18:49:29-04:00"
+            "date_modified": "2026-07-13T20:49:58-04:00"
+        },
+        {
+            "id": "https://www.optoutproject.net/question-time/",
+            "url": "https://www.optoutproject.net/question-time/",
+            "title": "Top Ten Questions about Opting Out",
+            "summary": "Whether it's people assembled at my Opt Out Workshops, or someone I just met at a coffee shop, everyone has&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Philosophy",
+                   "Basics"
+            ],
+            "date_published": "2026-07-01T18:38:00-04:00",
+            "date_modified": "2026-07-13T20:51:32-04:00"
         },
         {
             "id": "https://www.optoutproject.net/the-tech-reclaimers/",
@@ -124,35 +154,6 @@
             ],
             "date_published": "2025-01-01T22:09:27-05:00",
             "date_modified": "2025-01-23T18:10:16-05:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/what-is-true-on-the-internet/",
-            "url": "https://www.optoutproject.net/what-is-true-on-the-internet/",
-            "title": "Why I bought an Encyclopedia",
-            "summary": "NOTE: This is a companion post to my piece in Public Books, \"The Encylopedia Project: Or, how to know in&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Tales",
-                   "Philosophy"
-            ],
-            "date_published": "2024-06-11T11:00:00-04:00",
-            "date_modified": "2024-06-13T11:35:54-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/linux-is-like-ice-cream/",
-            "url": "https://www.optoutproject.net/linux-is-like-ice-cream/",
-            "title": "Linux is like Ice Cream",
-            "summary": "Princeton is famous for its university, but the town is also known for its amazing ice cream shops. There are&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Reviews"
-            ],
-            "date_published": "2024-06-09T15:28:40-04:00",
-            "date_modified": "2025-01-02T22:28:52-05:00"
         }
     ]
 }

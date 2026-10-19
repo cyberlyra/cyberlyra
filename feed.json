@@ -10,19 +10,18 @@
     },
     "items": [
         {
-            "id": "https://www.optoutproject.net/when-privacy-isnt-private/",
-            "url": "https://www.optoutproject.net/when-privacy-isnt-private/",
-            "title": "When &quot;Privacy&quot; isn&#x27;t Private",
-            "summary": "A lot of what we know of as \"privacy\" is not privacy at all: it's a strange form of window&hellip;",
+            "id": "https://www.optoutproject.net/what-is-the-data-economy-anyway/",
+            "url": "https://www.optoutproject.net/what-is-the-data-economy-anyway/",
+            "title": "What is the Personal Data Economy?",
+            "summary": "Where did it come from? The personal data economy took root around 2012, when Google changed its privacy policy to&hellip;",
             "author": {
                 "name": "Janet Vertesi"
             },
             "tags": [
-                   "Social Media",
-                   "Philosophy"
+                   "Techniques"
             ],
-            "date_published": "2026-10-19T15:52:11-04:00",
-            "date_modified": "2026-10-19T17:04:26-04:00"
+            "date_published": "2026-10-19T16:09:22-04:00",
+            "date_modified": "2026-10-19T17:18:45-04:00"
         },
         {
             "id": "https://www.optoutproject.net/egosystems/",

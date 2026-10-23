@@ -24,6 +24,20 @@
             "date_modified": "2026-10-19T19:15:11-04:00"
         },
         {
+            "id": "https://www.optoutproject.net/tactic-render-to-caesar/",
+            "url": "https://www.optoutproject.net/tactic-render-to-caesar/",
+            "title": "Tactic: Render to Caesar",
+            "summary": "\"I'd love to opt out, but I have to use Google/Microsoft/X for work!\" I often hear some version of this&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Techniques"
+            ],
+            "date_published": "2026-10-19T15:29:55-04:00",
+            "date_modified": "2026-10-22T21:29:14-04:00"
+        },
+        {
             "id": "https://www.optoutproject.net/egosystems/",
             "url": "https://www.optoutproject.net/egosystems/",
             "title": "The Clash of the Egosystems",
@@ -140,21 +154,6 @@
             ],
             "date_published": "2025-01-18T23:17:24-05:00",
             "date_modified": "2025-03-23T23:17:19-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/social-media-1/",
-            "url": "https://www.optoutproject.net/social-media-1/",
-            "title": "Day Ten: Leave Social Media",
-            "summary": "A social, not just technical, toolkit There are a lot of posts out the on the internet that will teach&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Social Media",
-                   "Cleanse"
-            ],
-            "date_published": "2025-01-10T22:07:50-05:00",
-            "date_modified": "2026-07-13T21:30:08-04:00"
         }
     ]
 }

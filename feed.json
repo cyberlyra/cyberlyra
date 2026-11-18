@@ -38,6 +38,21 @@
             "date_modified": "2026-10-19T19:15:11-04:00"
         },
         {
+            "id": "https://www.optoutproject.net/when-privacy-isnt-private/",
+            "url": "https://www.optoutproject.net/when-privacy-isnt-private/",
+            "title": "&quot;Privacy&quot; is a Dark Pattern",
+            "summary": "A lot of what we know of as \"privacy\" is not privacy at all: it's a strange form of window&hellip;",
+            "author": {
+                "name": "Janet Vertesi"
+            },
+            "tags": [
+                   "Social Media",
+                   "Philosophy"
+            ],
+            "date_published": "2026-10-19T15:52:11-04:00",
+            "date_modified": "2026-11-18T05:16:49-05:00"
+        },
+        {
             "id": "https://www.optoutproject.net/tactic-render-to-caesar/",
             "url": "https://www.optoutproject.net/tactic-render-to-caesar/",
             "title": "Tactic: Render to Caesar",
@@ -139,20 +154,6 @@
             ],
             "date_published": "2025-03-27T18:04:21-04:00",
             "date_modified": "2026-10-19T15:25:07-04:00"
-        },
-        {
-            "id": "https://www.optoutproject.net/smarter-watch/",
-            "url": "https://www.optoutproject.net/smarter-watch/",
-            "title": "Who&#x27;s Watching Your Watch?",
-            "summary": "Whence the Smart Watch? In 2012 the Pebble smartwatch hit Kickstarter, and the funding site exploded. While there had been&hellip;",
-            "author": {
-                "name": "Janet Vertesi"
-            },
-            "tags": [
-                   "Accessories"
-            ],
-            "date_published": "2025-03-23T23:11:10-04:00",
-            "date_modified": "2025-03-28T00:00:54-04:00"
         }
     ]
 }

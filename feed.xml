@@ -3,12 +3,31 @@
     <title>The Opt Out Project</title>
     <link href="https://www.optoutproject.net/feed.xml" rel="self" />
     <link href="https://www.optoutproject.net" />
-    <updated>2026-11-18T05:31:03-05:00</updated>
+    <updated>2026-11-24T16:50:11-05:00</updated>
     <author>
         <name>Janet Vertesi</name>
     </author>
     <id>https://www.optoutproject.net</id>
 
+    <entry>
+        <title>RIP Bourdieu, you would have loved &quot;Filter Bubbles&quot;</title>
+        <author>
+            <name>Janet Vertesi</name>
+        </author>
+        <link href="https://www.optoutproject.net/bourdieu-preferences/"/>
+        <id>https://www.optoutproject.net/bourdieu-preferences/</id>
+            <category term="Social Media"/>
+            <category term="RIP"/>
+            <category term="Philosophy"/>
+
+        <updated>2026-11-23T09:06:06-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    In 2021, a young artist named Zach Silberberg in New York City posted what would later become a meme to&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>It&#x27;s not All Or Nothing!</title>
         <author>
@@ -164,23 +183,6 @@
             <summary type="html">
                 <![CDATA[
                     Stop the Scroll I teach a class at Princeton called the Sociology of the Internet. Famously, one of the first&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Will My Tech Enshittify?</title>
-        <author>
-            <name>Janet Vertesi</name>
-        </author>
-        <link href="https://www.optoutproject.net/will-it-enshittify/"/>
-        <id>https://www.optoutproject.net/will-it-enshittify/</id>
-            <category term="Philosophy"/>
-
-        <updated>2025-03-27T18:04:21-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    The Enshittification Problem You've just found a cool new tool that does the thing you want to do. Or maybe&hellip;
                 ]]>
             </summary>
         <content></content>
